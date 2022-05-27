@@ -5,9 +5,9 @@
     linii
 """
 
-# String-ul este o secventa de caractere.
+# String-ul este o secventa de caractere
 
-# declarare si initializare string, integer, float, boolean
+# declarare si initializare String, integer, float, boolean
 
 # int
 iVal = 13
