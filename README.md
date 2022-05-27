@@ -13,6 +13,7 @@ Tema – Curs Primii pași în programare
    boolean. Alege valorile dupa preferinta ta.
 5. Ce tipăreşte următorul segment de cod Java? Scrie segmentul de cod
    in limbajul de progrmare java si afla raspunsul.
+   
    int i;
    
    for (i=1; i<20; i = i+3)
