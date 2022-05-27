@@ -13,6 +13,7 @@ public class Tema0 {
          **/
 
         // Declarare si Initializare a variabilelor: string, integer, float,boolean in compilator;
+        //
 
         Scanner input = new Scanner(System.in);
         System.out.println("Vrei sa vezi declararea si initializarea de variabila in JAVA?");
